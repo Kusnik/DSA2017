@@ -1,0 +1,4 @@
+def somme(v):
+	w =  sum(v)
+	print "La somme des éléments du vecteur est" w
+ 
